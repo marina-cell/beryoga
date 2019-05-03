@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Fivo Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local("Fivosans"), url('../fonts/fivosans-regular.woff2') format('woff2'), url('fivosans-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fivo Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: local("Fivosans"), url('../fonts/fivosans-bold.woff2') format('woff2'), url('fivosans-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fivo Sans';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: local("Fivosans"), url('../fonts/fivosans-light.woff2') format('woff2'), url('fivosans-light.woff') format('woff');
+}
